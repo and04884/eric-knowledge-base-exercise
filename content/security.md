@@ -1,6 +1,13 @@
----
-title: Exercise 06 Your First Content and Commit
----
-## The index page
+## ### Security
+
+This category will provide information about protecting computers, accounts, and organizational information.
+
+Possible future articles:
+
+- Password Security
+- Phishing Emails
+- Malware
+- Multi-Factor Authentication
+- Account Security
 
 
