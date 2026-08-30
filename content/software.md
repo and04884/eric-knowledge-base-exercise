@@ -1,4 +1,4 @@
-## ### Software
+## Software
 
 This category will contain information about common software problems and solutions.
 
