@@ -10,4 +10,6 @@ Possible future articles:
 - Microsoft Office Problems
 - Software Updates
 
+## Related Categories
 
+Software troubleshooting is closely related to [[../Hardware/index|hardware troubleshooting]] because hardware problems can sometimes affect how software and applications operate.
