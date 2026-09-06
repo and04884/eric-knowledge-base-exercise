@@ -10,5 +10,5 @@ Possible future articles:
 - Laptop Troubleshooting
 ## Related Categories
 
-Hardware troubleshooting is closely related to [[../Software/index|software troubleshooting]] because many computer problems can involve both hardware and software.
+Hardware troubleshooting is closely related to [[/Software/index|software troubleshooting]] because many computer problems can involve both hardware and software.
 
