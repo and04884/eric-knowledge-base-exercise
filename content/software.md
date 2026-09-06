@@ -12,4 +12,4 @@ Possible future articles:
 
 ## Related Categories
 
-Software troubleshooting is closely related to [[/Hardware/index|hardware troubleshooting]] because hardware problems can sometimes affect how software and applications operate.
+Software troubleshooting is closely related to [[#Hardware/index|hardware troubleshooting]] because hardware problems can sometimes affect how software and applications operate.
