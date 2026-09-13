@@ -1,3 +1,12 @@
+
+## Hardware 
+Welcome to the Hardware Category. This section contains all hardware-related pages in the knowledge base
+
+## Hardware Index
+See the full list oh hardware pages here:
+[[hardware/index | Hardware Folder Index]]
+
+========
 ## Hardware Troubleshooting
 This section will cover physical computer equipment and troubleshooting.
 
@@ -10,9 +19,7 @@ Possible future articles:
 - Laptop Troubleshooting
 ## Related Categories
 
-<<<<<<< HEAD
-Hardware troubleshooting is closely related to [[software]] because many computer problems can involve both hardware and software.
+Hardware troubleshooting 
 =======
 Hardware troubleshooting is closely related to [[software/index | software troubleshooting]] ,because many computer problems can involve both hardware and software.
->>>>>>> e33abd503f11d740f5befcbee49fe3bb864cf7ff
 
