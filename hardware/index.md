@@ -1,11 +1,10 @@
-
 # Hardware
 
-This section explores the physical components that make modern computing possible. From CPUs to storage devices, each resource provides practical explanations and guidance for understanding and maintaining hardware systems.
+This section explores the physical components that make modern computing possible. From CPUs to storage devices, each resource provides practical explanations and guidance for understanding and maintaining your hardware.
 
 ## Pages in This Section
-- [[hardware/cpu-basics | CPU-Basics]]
-- [[hardware/memory-and-ram | Memory-and-Ram]]
-- [[hardware/storage-devices| Storage Devices]]
-- [[hardware/input-output-devices | Input & Output Devices]]
-- [[hardware/hardware-troubleshooting | Hardware-Troubleshooting]]
+- [CPU-Basics](cpu-basics.md)
+- [Memory and RAM](memory-and-ram.md)
+- [Storage Devices](storage-devices.md)
+- [Input & Output Devices](input-output-devices.md)
+- [Hardware Troubleshooting](hardware-troubleshooting.md)
