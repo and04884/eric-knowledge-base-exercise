@@ -4,7 +4,7 @@ Welcome to the Hardware Category. This section contains all hardware-related pag
 
 ## Hardware Index
 See the full list oh hardware pages here:
-[[content/hardware/index| Hardware Folder Index]]
+[[hardwareindex| Hardware Folder Index]]
 
 ========
 ## Hardware Troubleshooting
