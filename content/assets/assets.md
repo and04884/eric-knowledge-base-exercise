@@ -1,3 +1,3 @@
 ## Motherboard Diagram
 
-![[assets/motherboard-diagram.jpg]]
+content/assets/[[Motherboard-diagram-1024x576.webp]]
