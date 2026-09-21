@@ -1,4 +1,4 @@
-## ### Security
+##  Security
 
 This category will provide information about protecting computers, accounts, and organizational information.
 

@@ -1,4 +1,4 @@
-## ### Support Procedures
+##  Support Procedures
 
 This category will focus on the actual processes used by a help desk to resolve and document problems.
 

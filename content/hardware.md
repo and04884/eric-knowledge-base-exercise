@@ -6,8 +6,7 @@ Welcome to the Hardware Category. This section contains all hardware-related pag
 See the full list oh hardware pages here:
 [[hardware/hardwareindex | Hardware Folder Index]]
 
-![[content/assets/assets|assets]]![[Motherboard-diagram-1024x576.webp]]
-========
+![[content/assets/assets|assets]]
 ## Hardware Troubleshooting
 This section will cover physical computer equipment and troubleshooting.
 
