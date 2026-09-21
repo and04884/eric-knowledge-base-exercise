@@ -7,6 +7,9 @@ See the full list oh hardware pages here:
 [[hardware/hardwareindex | Hardware Folder Index]]
 
 ![[content/assets/assets|assets]]
+
+<img width="1024" height="576" alt="Motherboard-diagram-1024x576" src="https://github.com/user-attachments/assets/e45cbd41-daf0-487e-ae4a-304d8c47ca5f" />
+
 ## Hardware Troubleshooting
 This section will cover physical computer equipment and troubleshooting.
 
