@@ -8,8 +8,8 @@ date: 2026-10-01
 This knowledge base is designed as a structured, interconnected reference for understanding computer systems, networks, security, and support workflows. Each category contains multiple pages that build on one another, forming a cohesive learning environment.
 
 The site is organized into major categories:
-- [[hardware/index|Hardware]]
-- [[software/index|Software]]
+- [[content/hardware/index|Hardware]]
+- [[content/software/index|Software]]
 - [[network/index|Network]]
 - [[security/index|Security]]
 - [[support-procedures/index|Support Procedures]]
